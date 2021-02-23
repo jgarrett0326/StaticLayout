@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(120, 21, 233);
+}
+.laptop {
+    display: block;
+    height: 300px;
+    width: 300px;
+    margin-top: 8%;
+    width: 50%;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.main-text {
+    color: white;
+    text-align: center;
+    margin: 8%;
+}
+button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 12px 18px;
+    font-size: 16px;
+}
